@@ -26,7 +26,7 @@ Menu:
 Cadastro de funcionario
 ![image](https://user-images.githubusercontent.com/60722028/118081698-450cdc80-b392-11eb-8bd7-d32561535e44.png)
 
-Cadastro de paciente
+Agendamento de procedimento
 ![image](https://user-images.githubusercontent.com/60722028/118081739-5950d980-b392-11eb-996c-82cdbee8f125.png)
 
 
