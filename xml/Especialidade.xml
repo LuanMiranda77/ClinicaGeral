@@ -1,0 +1,12 @@
+<list>
+  <MODEL.Especialidade>
+    <id>1</id>
+    <cbo>2560</cbo>
+    <nome>MEDICO GERIATRICO</nome>
+  </MODEL.Especialidade>
+  <MODEL.Especialidade>
+    <id>2</id>
+    <cbo>2560</cbo>
+    <nome>DENTISTA</nome>
+  </MODEL.Especialidade>
+</list>

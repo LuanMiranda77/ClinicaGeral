@@ -1,0 +1,13 @@
+<MODEL.Config>
+  <URL>jdbc:postgresql://localhost:5433/bdClinica</URL>
+  <USER>postgres</USER>
+  <PASS>ads54321</PASS>
+  <usar__Envio__automaico__zap>S</usar__Envio__automaico__zap>
+  <modelo__mesagem__zap>Lembrete do exame;Sr.;sua consulta esta marcada para data:;e hora:;desde ja agradeco sua preferencia;Confirmar a consulta?</modelo__mesagem__zap>
+  <email>aleixoferragens1@gmail.com</email>
+  <senha__Email>lor123456789</senha__Email>
+  <porta__Email>465</porta__Email>
+  <servidor__Email>smtp.gmail.com</servidor__Email>
+  <versao>V-1.5-01/03/2020</versao>
+  <TipoInstalacao>SERVIDOR</TipoInstalacao>
+</MODEL.Config>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/activation.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/commons-email-1.3.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/dsn.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/gimap.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/imap.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/mailapi.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/pop3.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/smtp.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/pdf/itextpdf-5.5.10.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/xml/postgresql-9.4.1208.jre6.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/xml/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/xml/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/xml/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/xml/xstream-benchmark-1.4.7.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/Jcalendar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/MensZap/twilio-7.47.2-messagemzap.jar"/>
+	<classpathentry kind="lib" path="Bibliotecas/email/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

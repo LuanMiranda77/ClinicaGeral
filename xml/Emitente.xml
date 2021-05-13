@@ -1,0 +1,20 @@
+<list>
+  <MODEL.Emitente>
+    <CNPJ>99.595.995/9595-95</CNPJ>
+    <inscEst>1616599</inscEst>
+    <razao>MAMA</razao>
+    <nomeFatasia>CLINICA JUJU</nomeFatasia>
+    <cep>58500-000</cep>
+    <rua>CASAF</rua>
+    <num>15</num>
+    <bairro>DDDD</bairro>
+    <cidade>FFF</cidade>
+    <UF>PB</UF>
+    <codIbge>262</codIbge>
+    <fone>(  )    -    </fone>
+    <fax>(  )  .    -    </fax>
+    <email>clinicajuju@gmail.com</email>
+    <cel1>(  ) .    -    </cel1>
+    <logo>icon/logoGraca.png</logo>
+  </MODEL.Emitente>
+</list>

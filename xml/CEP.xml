@@ -1,0 +1,23 @@
+<list>
+  <MODEL.CEP>
+    <cod>58500-000</cod>
+    <rua>MPITON</rua>
+    <bairro>CENTRO</bairro>
+    <cidade>MONTEIRO</cidade>
+    <UF>PB</UF>
+  </MODEL.CEP>
+  <MODEL.CEP>
+    <cod>     -   </cod>
+    <rua></rua>
+    <bairro></bairro>
+    <cidade></cidade>
+    <UF>AC</UF>
+  </MODEL.CEP>
+  <MODEL.CEP>
+    <cod>58560-000</cod>
+    <rua>papapa</rua>
+    <bairro>sirtio pucata</bairro>
+    <cidade>sertania</cidade>
+    <UF>PB</UF>
+  </MODEL.CEP>
+</list>

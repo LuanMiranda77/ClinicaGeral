@@ -1,0 +1,170 @@
+<list>
+  <MODEL.AgendaConsulta>
+    <id>1</id>
+    <hora>08:15</hora>
+    <data>2020-01-03 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>FRANCA</matMedico>
+    <status>FINALIZADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>2</id>
+    <hora>08:00</hora>
+    <data>2019-12-31 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>FRANCA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>3</id>
+    <hora>08:15</hora>
+    <data>2019-12-31 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>FRANCA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>4</id>
+    <hora>08:00</hora>
+    <data>2020-01-01 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>5</id>
+    <hora>08:15</hora>
+    <data>2020-01-01 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>6</id>
+    <hora>08:00</hora>
+    <data>2020-01-02 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>7</id>
+    <hora>08:00</hora>
+    <data>2020-01-03 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>8</id>
+    <hora>08:00</hora>
+    <data>2020-01-11 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>FINALIZADA</status>
+    <valor>150.0</valor>
+    <desc>50.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>9</id>
+    <hora>08:00</hora>
+    <data>2020-01-11 02:00:00.0 UTC</data>
+    <idPaciente>KAKA</idPaciente>
+    <idProce>EXTRACAO DE DENTE</idProce>
+    <matMedico>GABRIELA BERTO</matMedico>
+    <status>MARCADA</status>
+    <valor>120.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>10</id>
+    <hora>08:15</hora>
+    <data>2020-01-11 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>TRATAMNETO DE CANAL</idProce>
+    <matMedico>GABRIELA BERTO</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>11</id>
+    <hora>08:15</hora>
+    <data>2020-01-11 02:00:00.0 UTC</data>
+    <idPaciente>KAKA</idPaciente>
+    <idProce>ULTRASON VAGINAL</idProce>
+    <matMedico>LUNA</matMedico>
+    <status>MARCADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>12</id>
+    <hora>08:30</hora>
+    <data>2020-01-11 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>EXTRACAO DE DENTE</idProce>
+    <matMedico>GABRIELA BERTO</matMedico>
+    <status>MARCADA</status>
+    <valor>120.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>13</id>
+    <hora>21:45</hora>
+    <data>2020-01-06 02:00:00.0 UTC</data>
+    <idPaciente>KAKA</idPaciente>
+    <idProce>EXTRACAO DE DENTE</idProce>
+    <matMedico>GABRIELA BERTO</matMedico>
+    <status>FINALIZADA</status>
+    <valor>120.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+  <MODEL.AgendaConsulta>
+    <id>14</id>
+    <hora>22:00</hora>
+    <data>2020-01-06 02:00:00.0 UTC</data>
+    <idPaciente>LINDA</idPaciente>
+    <idProce>TRATAMNETO DE CANAL</idProce>
+    <matMedico>GABRIELA BERTO</matMedico>
+    <status>FINALIZADA</status>
+    <valor>200.0</valor>
+    <desc>0.0</desc>
+    <obs></obs>
+  </MODEL.AgendaConsulta>
+</list>

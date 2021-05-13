@@ -1,0 +1,17 @@
+<list>
+  <MODEL.Procedimento>
+    <id>1</id>
+    <desc>ULTRASON VAGINAL</desc>
+    <valor>200.0</valor>
+  </MODEL.Procedimento>
+  <MODEL.Procedimento>
+    <id>2</id>
+    <desc>EXTRACAO DE DENTE</desc>
+    <valor>120.0</valor>
+  </MODEL.Procedimento>
+  <MODEL.Procedimento>
+    <id>3</id>
+    <desc>TRATAMNETO DE CANAL</desc>
+    <valor>200.0</valor>
+  </MODEL.Procedimento>
+</list>
